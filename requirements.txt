@@ -8,7 +8,6 @@ certifi==2020.6.20
 cffi==1.16.0
 click==8.0.3
 clr-loader==0.2.6
-cmdtest==0.32+git
 colorama==0.4.4
 command-not-found==0.3
 contourpy==1.2.0
