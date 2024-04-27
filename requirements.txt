@@ -11,15 +11,6 @@ clr-loader==0.2.6
 colorama==0.4.4
 contourpy==1.2.0
 cryptography==3.4.8
-cupshelpers==1.0
-cycler==0.12.1
-dbus-python==1.2.18
-defer==1.0.6
-devscripts===2.22.1ubuntu1
-distlib==0.3.8
-distro==1.7.0
-distro-info==1.1+ubuntu0.2
-Django==5.0.3
 dlib==19.24.2
 et-xmlfile==1.1.0
 exceptiongroup==1.2.0
