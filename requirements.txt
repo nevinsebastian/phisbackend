@@ -20,9 +20,6 @@ fastapi==0.110.1
 filelock==3.13.1
 fonttools==4.49.0
 fsspec==2024.3.0
-gyp==0.1
-h11==0.13.0
-hidpidaemon==18.4.6
 httplib2==0.20.2
 idna==3.3
 importlib-metadata==4.6.4
